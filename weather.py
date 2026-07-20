@@ -1,4 +1,3 @@
-import httpx
 
 def format_openweathermap_report(data):
     name = data.get("name")
